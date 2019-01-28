@@ -6,3 +6,4 @@ welcome to my page !!!
 dog 
 cat
 horse
+banana
